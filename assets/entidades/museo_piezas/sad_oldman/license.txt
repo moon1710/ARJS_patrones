@@ -1,0 +1,11 @@
+Model Information:
+* title:	Herma de Bacus. Museu de Badalona
+* source:	https://sketchfab.com/3d-models/herma-de-bacus-museu-de-badalona-61c2cb45dc6d4bafa27ebbe5b6f3540a
+* author:	Museu de Badalona (https://sketchfab.com/museubdn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Herma de Bacus. Museu de Badalona" (https://sketchfab.com/3d-models/herma-de-bacus-museu-de-badalona-61c2cb45dc6d4bafa27ebbe5b6f3540a) by Museu de Badalona (https://sketchfab.com/museubdn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

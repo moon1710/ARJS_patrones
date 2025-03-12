@@ -1,0 +1,11 @@
+Model Information:
+* title:	ornate golden armor
+* source:	https://sketchfab.com/3d-models/ornate-golden-armor-40a43b1f09bb4befb2f5de5cf649b0da
+* author:	viictor.axel11 (https://sketchfab.com/viictor.axel11)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ornate golden armor" (https://sketchfab.com/3d-models/ornate-golden-armor-40a43b1f09bb4befb2f5de5cf649b0da) by viictor.axel11 (https://sketchfab.com/viictor.axel11) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	PIEZA8
+* source:	https://sketchfab.com/3d-models/pieza8-7c86e0ba25854d1b826e786a3d274b02
+* author:	viictor.axel11 (https://sketchfab.com/viictor.axel11)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PIEZA8" (https://sketchfab.com/3d-models/pieza8-7c86e0ba25854d1b826e786a3d274b02) by viictor.axel11 (https://sketchfab.com/viictor.axel11) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

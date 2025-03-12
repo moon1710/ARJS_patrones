@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amuleto
+* source:	https://sketchfab.com/3d-models/amuleto-a526b56664b342ce9cbda5011f889c3b
+* author:	viictor.axel11 (https://sketchfab.com/viictor.axel11)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amuleto" (https://sketchfab.com/3d-models/amuleto-a526b56664b342ce9cbda5011f889c3b) by viictor.axel11 (https://sketchfab.com/viictor.axel11) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
