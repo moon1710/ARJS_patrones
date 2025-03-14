@@ -1,18 +1,12 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escena AR Responsiva</title>
     <script src="js/aframe.min.js"></script>
     <script src="js/aframe-ar.js"></script>
-    <!-- Vincula el archivo CSS externo -->
-    <link rel="stylesheet" href="styles.css">
   </head>
 
   <body id="mov">
     <a-scene embedded arjs>
-      <!-- Marcador 1 -->
       <a-marker id="entidad1"
         preset="custom"
         type="pattern"
@@ -28,27 +22,10 @@
         </a-entity>
       </a-marker>
 
-      <!-- Marcador 2 -->
       <a-marker id="entidad2"
         preset="custom"
         type="pattern"
         url="assets/patrones/pattern-num2.patt"
-      >
-        <a-entity
-          class="rotating-entity"
-          gltf-model="assets/entidades/museo_piezas/tina/scene.gltf"
-          scale="4 4 4"
-          position="0 0 0"
-          rotation="-60 0 0"
-        >
-        </a-entity>
-      </a-marker>
-
-      <!-- Marcador 3 -->
-      <a-marker id="entidad3"
-        preset="custom"
-        type="pattern"
-        url="assets/patrones/pattern-num3.patt"
       >
         <a-entity
           class="rotating-entity"
@@ -60,11 +37,10 @@
         </a-entity>
       </a-marker>
 
-      <!-- Marcador 4 -->
-      <a-marker id="entidad4"
+      <a-marker id="entidad3"
         preset="custom"
         type="pattern"
-        url="assets/patrones/pattern-num4.patt"
+        url="assets/patrones/pattern-num3.patt"
       >
         <a-entity
           class="rotating-entity"
@@ -76,11 +52,10 @@
         </a-entity>
       </a-marker>
 
-      <!-- Marcador 5 -->
-      <a-marker id="entidad5"
+      <a-marker id="entidad4"
         preset="custom"
         type="pattern"
-        url="assets/patrones/pattern-num5.patt"
+        url="assets/patrones/pattern-num4.patt"
       >
         <a-entity
           class="rotating-entity"
@@ -96,20 +71,26 @@
     </a-scene>
 
     <script>
+     
       const rotatingEntities = document.querySelectorAll(".rotating-entity");
 
+      
       let isRotating = false;
 
+      
       document.getElementById("mov").addEventListener("click", () => {
         isRotating = !isRotating;
         console.log("Estado de rotación global:", isRotating ? "Girando" : "Detenido");
       });
 
+      
       function rotateEntities() {
         if (isRotating) {
           rotatingEntities.forEach((entity) => {
+           
             let rotation = entity.getAttribute("rotation");
 
+            
             rotation.x += 2; 
             entity.setAttribute("rotation", rotation);
           });
